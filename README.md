@@ -82,6 +82,30 @@ http://localhost:8080/tmall_ssm/admin
 * 登录、注册
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/后台登陆.png)
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/后台注册.png)
+* 分类管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/分类管理.png)
+* 图片管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/图片管理.png)
+* 属性管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/属性管理.png)
+* 产品管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/产品管理.png)
+* 属性设置
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/属性设置.png)
+* 前台用户管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/前台用户管理.png)
+* 后台用户管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/后台用户管理.png)
+* 订单管理
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/订单管理.png)
+如果你觉得还不错的话，给个星星吧！
+
+
+
+
+
+
+
 
 
 
