@@ -42,9 +42,9 @@
 * 连接数据库配置
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/l01.png)
 * 进行日志级别设定
-# 数据库导入
+## 数据库导入
 * 数据库导入可使用命令行或者客户端工具进行导入---此处不做过多赘述
-# tomcat部署
+## tomcat部署
 * 请自行学习idea如何部署tomcat
 # 测试地址
 ## 前端访问地址
@@ -78,6 +78,8 @@ http://localhost:8080/tmall_ssm/admin
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/同类型--产品界面.png)
 * 购物车
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/购物车.png)
+* 模态登录
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/模态登录.png)
 ## 后端界面
 * 登录、注册
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/后台登陆.png)
