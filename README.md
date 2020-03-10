@@ -46,13 +46,21 @@
 * 数据库导入可使用命令行或者客户端工具进行导入---此处不做过多赘述
 # tomcat部署
 * 请自行学习idea如何部署tomcat
-# idea测试运行
+# 测试地址
 ## 前端访问地址
 http://localhost:8080/tmall_ssm/forehome
 ## 后台访问地址
 http://localhost:8080/tmall_ssm/admin
-* 在浏览器输入端口即可访问
-![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/首页1.png)
+# 打包
+* 通过Maven进行打包
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/打包01.png)
+* 打包成功后会在target目录下生成一个（项目名.war）的包
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/打包02.png)
+# 系统截图
+* 首页
+![p01](https://github.com/dahanshui/Images/tree/master/tmall_ssm_Images/forehome/首页1.png)
+![p01](https://github.com/dahanshui/Images/tree/master/tmall_ssm_Images/forehome/首页2.png)
+
 
 
 
