@@ -52,14 +52,42 @@ http://localhost:8080/tmall_ssm/forehome
 ## 后台访问地址
 http://localhost:8080/tmall_ssm/admin
 # 打包
-* 通过Maven进行打包
+## 通过Maven进行打包
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/打包01.png)
-* 打包成功后会在target目录下生成一个（项目名.war）的包
+## 打包成功后会在target目录下生成一个（项目名.war）的包
 ![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/打包02.png)
-# 系统截图
+# 商城截图
+## 前端页面
 * 首页
-![p01](https://github.com/dahanshui/Images/tree/master/tmall_ssm_Images/forehome/首页1.png)
-![p01](https://github.com/dahanshui/Images/tree/master/tmall_ssm_Images/forehome/首页2.png)
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/首页1.png)
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/首页2.png)
+* 登录、注册
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/登录.png)
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/注册.png)
+* 产品详情
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/产品详情.png)
+* 提交订单
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/fore-提交订单.png)
+* 付款
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/支付.png)
+* 付款成功
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/付款成功.png)
+* 查看订单
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/全部订单.png)
+* 同类型产品界面
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/同类型--产品界面.png)
+* 购物车
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/购物车.png)
+## 后端界面
+* 登录、注册
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/后台登陆.png)
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/admin/后台注册.png)
+
+
+
+
+
+
 
 
 
