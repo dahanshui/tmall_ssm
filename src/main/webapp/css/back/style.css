@@ -1,0 +1,204 @@
+body {
+    padding-top: 70px;
+}
+
+div.workingArea {
+    margin: 0px 40px;
+}
+
+div.addDiv {
+    width: 400px;
+    margin: 0px auto;
+}
+
+div.editDiv {
+    width: 400px;
+    margin: 0px auto;
+
+}
+
+div.loginAdminPageDiv {
+    width: 500px;
+    height: 600px;
+    margin: 50px auto;
+}
+
+table.loginAdminPageTable td.loginAdminPageTD {
+    padding: 20px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+div.loginAdminErrorDiv {
+    height: 80px;
+    width: 500px;
+    text-align: center;
+
+}
+
+div.loginAdminErrorDiv div.loginAdminErrorMessage {
+    font-family: Arial;
+    color: #C40000;
+    display: none;
+}
+
+div.loginAdminMessageHeader {
+    font-size: 18px;
+    text-align: left;
+}
+
+div.registerAdminSuccessDiv {
+    margin: 10px 20px;
+    background-color: #F3FDF6;
+    border: 1px solid #DEF3E6;
+    font-size: 16px;
+    color: #3C3C3C;
+    padding: 20px 130px;
+}
+
+div.registerAdminSuccessInfoDiv {
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+div.registerAdminSuccessInfoDiv a {
+    text-decoration: none;
+}
+
+div.registerAdminSuccessInfoDiv a:hover {
+    color: #C40000;
+}
+
+div.registerAdminPageDiv {
+    width: 500px;
+    height: 600px;
+    margin: 50px auto;
+}
+
+table.registerAdminPageTable td.registerAdminPageTD {
+    padding: 20px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+div.registerAdminErrorDiv {
+    height: 80px;
+    width: 500px;
+    text-align: center;
+
+}
+
+div.registerAdminErrorDiv div.registerAdminErrorMessage {
+    font-family: Arial;
+    color: #C40000;
+    display: none;
+}
+
+div.registerAdminMessageHeader {
+    font-size: 18px;
+    left: 10px;
+    top: 20px;
+    text-align: left;
+}
+
+table.addTable {
+    width: 100%;
+}
+
+table.editTable {
+    width: 100%;
+}
+
+table.editTable td {
+    padding: 5px;
+}
+
+table.addTable td {
+    padding: 5px;
+}
+
+div.pageDiv {
+    text-align: center;
+}
+
+div.listDataTableDiv {
+    min-height: 220px;
+}
+
+div.footer {
+    margin: 20px;
+}
+
+div.editPVDiv {
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+span.pvName {
+    display: inline-block;
+    width: 100px;
+    color: #555555;
+    font-size: 16px;
+    /* 	font-weight:bold; */
+    margin-left: 20px;
+
+}
+
+div.eachPV {
+    float: left;
+    margin: 5px;
+}
+
+span.pvValue {
+    display: inline-block;
+    width: 200px;
+    border: 1px solid lightgray;
+    padding: 0px;
+}
+
+span.pvValue input {
+    border-width: 0px;
+}
+
+div.addPictureDiv {
+    width: 400px;
+}
+
+table.addPictureTable {
+
+}
+
+td.addPictureTableTD {
+    padding: 10px 100px;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.orderPageOrderItem {
+    width: 100%;
+    padding: 20px;
+}
+
+table.orderPageOrderItemTable td {
+    padding: 5px;
+}
+
+tr.orderPageOrderItemTR {
+    display: none;
+}
+
+ul.pagination a.current {
+    font-weight: bold;
+    color: black;
+}
+
+td {
+    font-size: 14px;
+}
+
+th {
+    font-size: 14px;
+}
