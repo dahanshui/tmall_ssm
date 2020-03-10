@@ -28,4 +28,31 @@
 * 操作系统：Windows
 * 依赖：apache-maven-3.5.0
 * 开发工具 idea
- 
+* 服务器：tomcat7+
+# 项目运行配置
+## 一、idea打开项目（Maven项目）
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/p01.png)
+* applicationContext.xml Spring配置文件
+* generatorConfig.xml 逆向工程生成实体类及Mapper的配置文件
+* jdbc.properties JDBC配置文件
+* log4j.properties Log4j配置文件
+* springMVC.xml SpringMVC配置文件
+## 二、环境配置
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/s02.png)
+* 连接数据库配置
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/l01.png)
+* 进行日志级别设定
+# 数据库导入
+* 数据库导入可使用命令行或者客户端工具进行导入---此处不做过多赘述
+# tomcat部署
+* 请自行学习idea如何部署tomcat
+# idea测试运行
+## 前端访问地址
+http://localhost:8080/tmall_ssm/forehome
+## 后台访问地址
+http://localhost:8080/tmall_ssm/admin
+* 在浏览器输入端口即可访问
+![p01](https://github.com/dahanshui/Images/blob/master/tmall_ssm_Images/forehome/首页1.png)
+
+
+
